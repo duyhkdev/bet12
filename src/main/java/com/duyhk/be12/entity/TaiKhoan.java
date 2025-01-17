@@ -33,3 +33,5 @@ public class TaiKhoan {
     HangTaiKhoan hangTaiKhoan;
     TrangThai trangThai;
 }
+// khi tao tkoan se tao luon gio hang
+// 1 taif khoan <=> 1 gio hang
